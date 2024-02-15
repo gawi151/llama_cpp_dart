@@ -10,13 +10,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ffi: ^2.1.0
+  ffi: ^2.1.0                                                                                                                                                                                                                                                                      
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-  ffigen: ^10.0.0
+  ffigen: ^11.0.0
   path_provider: ^2.1.2
   system_info2: ^4.0.0
 
